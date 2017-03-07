@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="rain_sky_day_start">#2b4151</color>
+    <color name="rain_sky_day_end">#316081</color>
+
+    <color name="rain_sky_night_start">#041d31</color>
+    <color name="rain_sky_night_end">#081621</color>
+
+</resources>
